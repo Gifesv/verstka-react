@@ -1,0 +1,159 @@
+@import 'fonts.css';
+
+.header-nv {
+    background-image:url(../img/header_bg.png);
+}
+
+.header-logo {
+    margin-top: -13px;
+}
+
+.header-btn {
+    border:none;
+}
+
+.header-menu {
+    font-family: ProximaNova-BoldIt;
+    font-size: 18pt;
+}
+
+.header {
+    background-image: url(../img/header_bg.png);
+}
+
+.header_text_1 {
+    font-family: BLACKJAR;
+    color: white;
+    font-size: 70pt;
+}
+.header_text_2 {
+    font-family: ProximaNova-Light;
+    color: white;
+    font-size: 35pt;
+}
+
+.section-with-image {
+    padding-top: 150px;
+    padding-bottom: 140px;
+    background: no-repeat bottom right url(../img/ipad.png);
+    background-color: #f4f4f4;
+}
+
+.section-with-image-header {
+    font-family: ProximaNova-Light;
+    color: #545454;
+    font-size: 40pt;
+}
+
+.section-with-image-text-1 {
+    font-family: ProximaNova-Regular;
+    color: #7e7e7e;
+    font-size: 16pt;
+}
+
+.section-with-image-text-2 {
+    font-family: ProximaNova-RegularIT;
+     color: #7e7e7e;
+      font-size: 16pt;
+}
+
+.line {
+    border-left: 5px solid #4eacdd;
+    padding-left: 10px;
+}
+
+.pic {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.img-right {
+    margin-top: -400px;
+}
+
+.img_devices {
+    margin-top: -200px;
+}
+
+.section2 {
+    background: url(../img/devices.png) no-repeat bottom left;
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 235px;
+    overflow: hidden;
+    /* margin-bottom: 240px; */
+}
+
+.section2-header {
+    font-family: ProximaNova-Light;
+    color: #545454; 
+    font-size: 40pt;
+}
+
+.section2-text-1 {
+    font-family: ProximaNova-SemiboldIT; 
+    color: #474e5d; 
+    font-size: 16pt;
+}
+
+.section2-text-2 {
+    font-family: ProximaNova-Regular; 
+    color: #7e7e7e; 
+    font-size: 16pt;
+}
+
+.section3 {
+    background-image: url(../img/footer_bg.png);
+    padding: 100px;
+}
+
+.section3-header {
+    font-family: ProximaNova-Regular; 
+    color: white; 
+    font-size: 40pt;
+}
+
+.section4 {
+    background-color: #f4f4f4;
+    padding: 240px;
+}
+
+.section4__ikon {
+    display: inline-block;
+    padding: 23px;
+
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+
+}
+
+.input_text {
+    font-family: ProximaNova-SemiboldIT;
+    font-size: 16pt;
+    color: #545454;
+}
+
+.input_form::placeholder {
+    font-family: ProximaNova-SemiboldIT;
+    color: #d3d3d3;
+    font-size: 14px;
+    text-align: left;
+}
+
+.footer_text {
+    font-family: ProximaNova-RegularIT;
+    font-size: 12pt;
+    color: #545454;
+}
+
+.perth {
+    font-family: ProximaNova-Regular;
+    color: #6dc5ea;
+}
+
+.input_ikon {
+    margin-left: -50px;
+}
