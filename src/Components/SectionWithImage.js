@@ -18,7 +18,7 @@ const SectionWithImage = () => (
                             freo also as cross as a your shout. Lets throw a khe sanh flamin dead
                             dingo's donger. Lets get some fisho with grab us a trackie dacks.</p>
                         <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-                            <button type="button" className="btn btn-outline-success py-3 px-4 my-3">SAY HELLO <i
+                            <button onClick={()=> alert('Hello!')} type="button" className="btn btn-outline-success py-3 px-4 my-3">SAY HELLO <i
                                 className="fa-solid fa-envelope"></i></button>
                         </div>
 

@@ -15,7 +15,7 @@ const Section2 = () => (
                     <p className="section2-text-2">We're going rack off
                         bloody she'll be right pash. You
                         little ripper tucker also get a dog up ya greenie.</p>
-                    <button type="button" className="btn btn-outline-danger py-3 px-4 my-5">VIEW ON DRIBBBLE <i
+                    <button onClick={()=> alert('Viewing on Dribbble')} type="button" className="btn btn-outline-danger py-3 px-4 my-5">VIEW ON DRIBBBLE <i
                             className="fa-brands fa-dribbble"></i></button>
                 </div>
 
