@@ -1,0 +1,28 @@
+@import url(../css/fonts.css);
+
+.section2 {
+    background: url(../img/devices.png) no-repeat bottom left;
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 235px;
+    overflow: hidden;
+    /* margin-bottom: 240px; */
+}
+
+.section2-header {
+    font-family: ProximaNova-Light;
+    color: #545454; 
+    font-size: 40pt;
+}
+
+.section2-text-1 {
+    font-family: ProximaNova-SemiboldIT; 
+    color: #474e5d; 
+    font-size: 16pt;
+}
+
+.section2-text-2 {
+    font-family: ProximaNova-Regular; 
+    color: #7e7e7e; 
+    font-size: 16pt;
+}

@@ -1,0 +1,16 @@
+@import url(../css/fonts.css);
+
+
+.header {
+    background-image: url(../img/header_bg.png);
+}
+.header_text_1 {
+    font-family: BLACKJAR;
+    color: white;
+    font-size: 70pt;
+}
+.header_text_2 {
+    font-family: ProximaNova-Light;
+    color: white;
+    font-size: 35pt;
+}

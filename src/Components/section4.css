@@ -1,0 +1,34 @@
+@import url(../css/fonts.css);
+
+.section4 {
+    background-color: #f4f4f4;
+    padding: 240px;
+}
+
+.section4__ikon {
+    display: inline-block;
+    padding: 23px;
+
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+
+}
+
+.input_text {
+    font-family: ProximaNova-SemiboldIT;
+    font-size: 16pt;
+    color: #545454;
+}
+
+.input_form::placeholder {
+    font-family: ProximaNova-SemiboldIT;
+    color: #d3d3d3;
+    font-size: 14px;
+    text-align: left;
+}
+
+.input_ikon {
+    margin-left: -50px;
+}

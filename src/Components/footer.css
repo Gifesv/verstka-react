@@ -1,0 +1,12 @@
+@import url(../css/fonts.css);
+
+.footer_text {
+    font-family: ProximaNova-RegularIT;
+    font-size: 12pt;
+    color: #545454;
+}
+
+.perth {
+    font-family: ProximaNova-Regular;
+    color: #6dc5ea;
+}

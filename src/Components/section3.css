@@ -1,0 +1,12 @@
+@import url(../css/fonts.css);
+
+.section3 {
+    background-image: url(../img/footer_bg.png);
+    padding: 100px;
+}
+
+.section3-header {
+    font-family: ProximaNova-Regular; 
+    color: white; 
+    font-size: 40pt;
+}
