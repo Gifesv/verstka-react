@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './section4.css'
 
-const Section4 = () => (
+const Section4: React.FC = () => (
     <>
      <div className="section4">
         <div className="container">
@@ -15,7 +15,7 @@ const Section4 = () => (
 
             <form action="" className="mt-5">
                 <div className="row mb-3 justify-content-center align-items-center">
-                    <label for="inputEmail" className="input_text col-3 col-form-label">Newsletter Subscription</label>
+                    <label htmlFor="inputEmail" className="input_text col-3 col-form-label">Newsletter Subscription</label>
                     <div className="col-auto ">
                         <input type="email" className="input_form form-control rounded " id="inputEmail" placeholder="Enter Email"/>
                     </div>

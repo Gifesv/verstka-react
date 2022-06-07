@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './section2.css'
 
-const Section2 = () => (
+const Section2: React.FC = () => (
     <>
 
 <div className="section2">

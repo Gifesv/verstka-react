@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Iphone5 from '../img/iphone5.png';
 import './header.css'
 
 
-const Header = () => (
+const Header: React.FC = () => (
   <>
     <header className="header">
       <div className="container">

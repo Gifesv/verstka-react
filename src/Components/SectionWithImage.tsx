@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './sectionWithImage.css'
 
-const SectionWithImage = () => (
+const SectionWithImage: React.FC = () => (
     <>
         <div className="section-with-image">
             <div className="container">
